@@ -16,4 +16,17 @@ Effective TypeScript requires a good knowledge of JavaScript and the reasons it 
 
 TypeScript’s main feature is adding static types to JavaScript.
 
+## Chapter 2: Your first TypeScript application
+
+```bash
+node --version
+
+npm --version
+
+npm install --global typescript
+
+tsc --version
+
+```
+
 
