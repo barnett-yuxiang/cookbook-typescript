@@ -3,7 +3,8 @@ Where can you get the example code?
 https://github.com/manningbooks/essential-typescript-5
 
 ## Chapter 1: Understanding TypeScript
-superset of the JavaScript language
+
+Superset of the JavaScript language
 
 not solution to every problem and it is important to know when you should use TypeScript
 
@@ -13,6 +14,6 @@ The package includes a compiler that processes TypeScript files and produces pur
 
 Effective TypeScript requires a good knowledge of JavaScript and the reasons it behaves as it does. 
 
-
+TypeScript’s main feature is adding static types to JavaScript.
 
 
