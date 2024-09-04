@@ -29,4 +29,7 @@ tsc --version
 
 ```
 
+tsc The compiler reads the configuration settings in the tsconfig.json file and locates the TypeScript files in the src folder.
+
+TypeScript objective: Static data types, Safer, more predictable JavaScript code.
 
