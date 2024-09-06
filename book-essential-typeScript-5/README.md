@@ -33,3 +33,4 @@ tsc The compiler reads the configuration settings in the tsconfig.json file and 
 
 TypeScript objective: Static data types, Safer, more predictable JavaScript code.
 
+use shape type
