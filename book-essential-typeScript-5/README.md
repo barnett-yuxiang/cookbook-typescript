@@ -34,3 +34,9 @@ tsc The compiler reads the configuration settings in the tsconfig.json file and 
 TypeScript objective: Static data types, Safer, more predictable JavaScript code.
 
 use shape type
+The type keyword is used to create a type alias, which is a convenient way to assign a name to a shape type. 
+
+ I am going to use the excellent Inquirer.js package (https://github.com/SBoudrias/Inquirer.js) to deal with prompting the user for commands and processing responses.
+
+## Chapter 3: JavaScript primer part 1
+
