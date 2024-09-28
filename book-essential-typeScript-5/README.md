@@ -40,3 +40,5 @@ The type keyword is used to create a type alias, which is a convenient way to as
 
 ## Chapter 3: JavaScript primer part 1
 
+To install a package that will automatically execute the JavaScript file when its contents change, run the command shown in listing 3.2 in the primer folder.
+
